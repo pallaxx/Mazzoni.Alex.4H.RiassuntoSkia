@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using SkiaSharp.Views.Forms;
 using SkiaSharp;
@@ -13,6 +8,7 @@ namespace Mazzoni.Alex._4H.RiassuntoSkia
 
     public partial class MainPage : ContentPage
     {
+        //ESISTO ANCHE IO --Liam
         public int MARGINE_SINISTRO { get; set; } = 100;
         public int MARGINE_SOPRA { get; set; } = 100;
         public int LARGHEZZA_RETTANGOLO { get; set; } = 200;
